@@ -1,12 +1,12 @@
 # Project Title
 ---
-**A Preliminary Web GIS-Based Assessment of Potential Dam Sites Along the Katsina-Ala River, Benue State, Nigeria**
+**A Preliminary Web GIS-Based Assessment of Potential Dam Sites Along the Katsina-Ala River within katsina Ala local government area, Benue State, Nigeria**
 
 ---
 
 ## Research Question
 
-### Which areas along the Katsina-Ala River in Benue State, Nigeria, are potentially suitable for dam development based on terrain, river proximity, population settlements, and infrastructure?###
+### Which areas along the Katsina-Ala River within katsina Ala local government area in Benue State, Nigeria, are potentially suitable for dam development based on terrain, river proximity, population settlements, and infrastructure?###
 
 ---
 
