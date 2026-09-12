@@ -1,22 +1,22 @@
-#Project Title
+# Project Title
 ---
 **A Preliminary Web GIS-Based Assessment of Potential Dam Sites Along the Katsina-Ala River, Benue State, Nigeria**
 
 ---
 
-##Research Question
+## Research Question
 
-###Which areas along the Katsina-Ala River in Benue State, Nigeria, are potentially suitable for dam development based on terrain, river proximity, population settlements, and infrastructure?###
+### Which areas along the Katsina-Ala River in Benue State, Nigeria, are potentially suitable for dam development based on terrain, river proximity, population settlements, and infrastructure?###
 
 ---
 
-##Why It Matters
+## Why It Matters
 
 The Katsina-Ala River has potential benefits for flood control, irrigation, and hydropower. A GIS-based assessment can help identify areas that appear more suitable for further investigation and areas where dam development could affect settlements, roads, and other infrastructure. This is a preliminary spatial screening, not a final engineering feasibility study.
 
 ---
 
-##The data i need
+## The data i need
 
 **River and waterway** - Openstreet map/Geofabrik - Geopackage/osm pbf - 2GB - 
 https://download.geofabrik.de/africa/nigeria-latest-free.gpkg.zip
@@ -35,7 +35,7 @@ https://doi.org/10.5270/ESA-c5d3d65
 
 ---
 
-##Why I Need the Data
+## Why I Need the Data
 
 **River and Waterway Data**: To locate the Katsina-Ala River and assess proximity to potential dam sites.
 
@@ -51,7 +51,7 @@ https://doi.org/10.5270/ESA-c5d3d65
 
 ---
 
-##What I Expect to Produce
+## What I Expect to Produce
 
 The main output will be an interactive web GIS application for exploring potential dam development suitability along the Katsina-Ala River. The application will allow users to interact with the river, terrain, population, settlements, infrastructure, and suitability results. The project will begin with data preparation and analysis in QGIS and progressively develop into a web-based GIS solution that automates the suitability analysis and presents the results to users.
 
