@@ -6,7 +6,7 @@
 
 ## Research Question
 
-### Which areas along the Katsina-Ala River within katsina Ala local government area in Benue State, Nigeria, are potentially suitable for dam development based on terrain, river proximity, population settlements, and infrastructure?###
+### Which areas along the Katsina-Ala River within katsina Ala local government area in Benue State, Nigeria, are potentially suitable for dam development based on terrain, river proximity, population settlements, and infrastructure?
 
 ---
 

@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-13T19:05:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13201501464",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8608565,
+          7.4608122
+        ]
+      },
+      "id": "node/13201501464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13205516433",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7305582,
+          7.3188488
+        ]
+      },
+      "id": "node/13205516433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13205516434",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7312855,
+          7.3197769
+        ]
+      },
+      "id": "node/13205516434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13205516435",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7333336,
+          7.3208584
+        ]
+      },
+      "id": "node/13205516435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13205516436",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7320419,
+          7.3227865
+        ]
+      },
+      "id": "node/13205516436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13205516437",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7298695,
+          7.3234473
+        ]
+      },
+      "id": "node/13205516437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787313",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5610414,
+          7.2596183
+        ]
+      },
+      "id": "node/13214787313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787322",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5637003,
+          7.2587906
+        ]
+      },
+      "id": "node/13214787322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787344",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5668055,
+          7.2617157
+        ]
+      },
+      "id": "node/13214787344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787470",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5657321,
+          7.2630452
+        ]
+      },
+      "id": "node/13214787470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787498",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5653871,
+          7.2577883
+        ]
+      },
+      "id": "node/13214787498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787661",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5659578,
+          7.2546812
+        ]
+      },
+      "id": "node/13214787661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787848",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5600198,
+          7.2537302
+        ]
+      },
+      "id": "node/13214787848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214787971",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5603643,
+          7.2552272
+        ]
+      },
+      "id": "node/13214787971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214788125",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5641472,
+          7.2612653
+        ]
+      },
+      "id": "node/13214788125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214788230",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56403,
+          7.256721
+        ]
+      },
+      "id": "node/13214788230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13214788314",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5622351,
+          7.2558802
+        ]
+      },
+      "id": "node/13214788314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13225631045",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5672323,
+          7.264256
+        ]
+      },
+      "id": "node/13225631045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13226651098",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5718652,
+          7.2622159
+        ]
+      },
+      "id": "node/13226651098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13227458099",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7203967,
+          7.3126563
+        ]
+      },
+      "id": "node/13227458099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13227495917",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7154884,
+          7.3099396
+        ]
+      },
+      "id": "node/13227495917"
+    }
+  ]
+}
